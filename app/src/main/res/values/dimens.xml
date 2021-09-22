@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tam1"> 24sp</dimen>
+    <dimen name="margenes"> 16dp</dimen>
+
+</resources>
